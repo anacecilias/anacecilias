@@ -38,9 +38,9 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anacecilias&theme=radical&fire=ffdbec&ring=ffdbec&sideNums=ffffff&stroke=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&background=1a1a1a&hide_border=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=anacecilias&theme=radical&fire=ffdbec&ring=ffdbec&sideNums=ffffff&stroke=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&background=1a1a1a&hide_border=true" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=anacecilias&bg_color=1a1a1a&color=ffdbec&line=ffdbec&point=ffffff&hide_border=true" />
+  <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=anacecilias&bg_color=1a1a1a&color=ffdbec&line=ffdbec&point=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
