@@ -8,7 +8,7 @@
 
 <p align="left">
   <img src="assets/madoka.gif" align="right" width="150" alt="Madoka Magica">
-  <h1>print(f"Hello World!") I am Ana Cecília °˖➴</h1>
+  <h1>printf("Hello World!") I am Ana Cecília °˖➴</h1>
   <strong>Full-Stack Developer | Python, PHP, TypeScript, React.js and Next.js | Web and Data-driven development</strong><br>
   <br> <em>Focused on building scalable, responsive, and secure applications. I combine sustainable coding practices with robust data management and high-standard security systems.</em>
 </p>
