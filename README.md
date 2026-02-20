@@ -37,11 +37,16 @@
   <img src="https://img.shields.io/badge/-%23ffdbec?style=for-the-badge" width="100%" height="2px">
 </p>
 
-<p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=anacecilias&theme=radical&fire=ffdbec&ring=ffdbec&sideNums=ffffff&stroke=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&background=1a1a1a&hide_border=true" />
-  &nbsp;&nbsp;
-  <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=anacecilias&bg_color=1a1a1a&color=ffdbec&line=ffdbec&point=ffffff&hide_border=true" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=anacecilias&theme=radical&fire=ffdbec&ring=ffdbec&sideNums=ffffff&stroke=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&background=1a1a1a&hide_border=true" />
+    </td>
+    <td align="center">
+      <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=anacecilias&bg_color=1a1a1a&color=ffdbec&line=ffdbec&point=ffffff&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ana-cec%C3%ADlia-dos-santos-587162259/">
