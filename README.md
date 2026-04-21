@@ -1,58 +1,62 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner Ana Cecília" width="100%" style="object-fit: cover;">
+<h1>Ana Cecília</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/full--stack_developer-c33e42?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/security--focused-800020?style=flat-square&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%23ffdbec?style=for-the-badge" width="100%" height="2px">
+<p>
+  I build secure, scalable and maintainable systems<br>
+  with focus on clean architecture and performance.
 </p>
+
+<img align="right" src="assets/200w.gif" width="110" alt="avatar" />
+
+
+### `> stacks`
+
+<p>
+  <img src="https://img.shields.io/badge/javascript-c33e42?style=flat-square&logo=javascript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/typescript-c33e42?style=flat-square&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/python-c33e42?style=flat-square&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/php-c33e42?style=flat-square&logo=php&logoColor=fff" />
+  <img src="https://img.shields.io/badge/react-c33e42?style=flat-square&logo=react&logoColor=fff" />
+  <img src="https://img.shields.io/badge/next.js-c33e42?style=flat-square&logo=nextdotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/node.js-c33e42?style=flat-square&logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/express-c33e42?style=flat-square&logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/django-c33e42?style=flat-square&logo=django&logoColor=fff" />
+  <img src="https://img.shields.io/badge/prisma-c33e42?style=flat-square&logo=prisma&logoColor=fff" />
+  <img src="https://img.shields.io/badge/postgresql-c33e42?style=flat-square&logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/mysql-c33e42?style=flat-square&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/mongodb-c33e42?style=flat-square&logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/sql_server-c33e42?style=flat-square&logo=microsoftsqlserver&logoColor=fff" />
+  <img src="https://img.shields.io/badge/supabase-c33e42?style=flat-square&logo=supabase&logoColor=fff" />
+  <img src="https://img.shields.io/badge/git-c33e42?style=flat-square&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/docker-c33e42?style=flat-square&logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/kubernetes-c33e42?style=flat-square&logo=kubernetes&logoColor=fff" />
+  <img src="https://img.shields.io/badge/linux-c33e42?style=flat-square&logo=linux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/vscode-c33e42?style=flat-square&logo=visualstudiocode&logoColor=fff" />
+  <img src="https://img.shields.io/badge/pycharm-c33e42?style=flat-square&logo=pycharm&logoColor=fff" />
+  <img src="https://img.shields.io/badge/postman-c33e42?style=flat-square&logo=postman&logoColor=fff" />
+</p>
+
+### `> socials`
 
 <p align="left">
-  <img src="assets/madoka.gif" align="right" width="150" alt="Madoka Magica">
-  <h1>printf("Hello World!") I am Ana Cecília °˖➴</h1>
-  <strong>Full-Stack Developer | Python, PHP, TypeScript, React.js and Next.js | Web and Data-driven development</strong><br>
-  <br> <em>Focused on building scalable, responsive, and secure applications. I combine sustainable coding practices with robust data management and high-standard security systems.</em>
-</p>
-
-<br clear="right">
-
-**Front-end stacks:** <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=ffdbec" /> 
-<img src="https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=ffdbec" /> 
-<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=ffdbec" /> 
-<img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=ffdbec" /> 
-<img src="https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=ffdbec" /> 
-<img src="https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=ffdbec" />
-<img src="https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=ffdbec" />
-
-<br>
-
-**Back-end stacks and tools:** <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=ffdbec" /> 
-<img src="https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=ffdbec" /> 
-<img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=ffdbec" /> 
-<img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=ffdbec" /> 
-<img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=ffdbec" />
-<img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=ffdbec" />
-<img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=ffdbec" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-%23ffdbec?style=for-the-badge" width="100%" height="2px">
-</p>
-
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=anacecilias&theme=radical&fire=ffdbec&ring=ffdbec&sideNums=ffffff&stroke=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&background=1a1a1a&hide_border=true" />
-    </td>
-    <td align="center">
-      <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=anacecilias&bg_color=1a1a1a&color=ffdbec&line=ffdbec&point=ffffff&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ana-cec%C3%ADlia-dos-santos-587162259/">
-    <img src="https://img.shields.io/badge/LinkedIn-ffdbec?style=for-the-badge&logo=linkedin&logoColor=1a1a1a" />
+  <a href="https://github.com/anacecilias">
+    <img src="https://img.shields.io/badge/github-c33e42?style=for-the-badge&logo=github&logoColor=fff" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/linkedin-c33e42?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
   <a href="mailto:anaceciliadosantos2909@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-ffdbec?style=for-the-badge&logo=gmail&logoColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/e--mail-c33e42?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
+</p>
+
+### `> stats`
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacecilias&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c33e42&text_color=ffffff&langs_count=6&width=495" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anacecilias&hide_border=true&background=0d0d0d&ring=c33e42&fire=c33e42&currStreakLabel=c33e42&sideLabels=c33e42&dates=888888&stroke=c33e42&width=495" />
 </p>
