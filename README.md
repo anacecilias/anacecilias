@@ -1,14 +1,24 @@
 <h1>Ana Cecília</h1>
 
+### `> anacecilias`
+
 <p>
   <img src="https://img.shields.io/badge/full--stack_developer-c33e42?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/security--focused-800020?style=flat-square&logoColor=white" />
 </p>
 
 <p>
-  I build secure, scalable and maintainable systems<br>
-  with focus on clean architecture and performance.
-</p>
+Full-Stack Developer focused on secure software engineering and scalable web systems.
+
+Development of backend and frontend applications with emphasis on API design, authentication and authorization flows, and data security across relational and non-relational systems.
+
+Experience with security analysis in web applications, including OWASP Top 10 vulnerabilities, input validation flaws, and basic threat modeling applied to application flows.
+
+Familiarity with security practices such as responsible disclosure processes, OSINT-based analysis, and identification of vulnerabilities in real-world application contexts.
+
+Working knowledge of networking fundamentals (TCP/IP, DNS, HTTP/HTTPS) and system architecture relevant to secure distributed applications.
+
+Focus on building production-ready systems with security, reliability and architectural integrity as core requirements.
 
 <img align="right" src="assets/200w.gif" width="110" alt="avatar" />
 
@@ -46,7 +56,7 @@
   <a href="https://github.com/anacecilias">
     <img src="https://img.shields.io/badge/github-c33e42?style=for-the-badge&logo=github&logoColor=fff" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ana-cec%C3%ADlia-dos-santos-587162259/">
     <img src="https://img.shields.io/badge/linkedin-c33e42?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
   <a href="mailto:anaceciliadosantos2909@gmail.com">
@@ -55,6 +65,8 @@
 </p>
 
 ### `> stats`
+
+<img align="right" src="assets/200.gif" width="110" alt="avatar" />
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacecilias&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c33e42&text_color=ffffff&langs_count=6&width=495" />
