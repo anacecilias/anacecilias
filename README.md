@@ -8,17 +8,14 @@
 </p>
 
 <p>
-Full-Stack Developer focused on secure software engineering and scalable web systems.
+Full-Stack Developer focused on secure and scalable web systems;
+  
+Experience in API development, authentication and authorization flows, and data modeling across SQL and NoSQL databases;
 
-Development of backend and frontend applications with emphasis on API design, authentication and authorization flows, and data security across relational and non-relational systems.
+Security-focused work involving OWASP Top 10, access control analysis, input validation issues, OSINT techniques, and vulnerability assessment in web applications;
 
-Experience with security analysis in web applications, including OWASP Top 10 vulnerabilities, input validation flaws, and basic threat modeling applied to application flows.
-
-Familiarity with security practices such as responsible disclosure processes, OSINT-based analysis, and identification of vulnerabilities in real-world application contexts.
-
-Working knowledge of networking fundamentals (TCP/IP, DNS, HTTP/HTTPS) and system architecture relevant to secure distributed applications.
-
-Focus on building production-ready systems with security, reliability and architectural integrity as core requirements.
+Knowledge of TCP/IP, DNS, HTTP/HTTPS and system architecture for distributed and production environments, with emphasis on security, reliability and maintainability.
+</p>
 
 <img align="right" src="assets/200w.gif" width="110" alt="avatar" />
 
